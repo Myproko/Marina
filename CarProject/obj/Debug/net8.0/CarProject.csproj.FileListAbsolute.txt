@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\CarProject\bin\Debug\net8.0\CarProject.exe
+C:\Users\Marina\source\repos\CarProject\bin\Debug\net8.0\CarProject.deps.json
+C:\Users\Marina\source\repos\CarProject\bin\Debug\net8.0\CarProject.runtimeconfig.json
+C:\Users\Marina\source\repos\CarProject\bin\Debug\net8.0\CarProject.dll
+C:\Users\Marina\source\repos\CarProject\bin\Debug\net8.0\CarProject.pdb
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.AssemblyInfo.cs
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.dll
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\refint\CarProject.dll
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.pdb
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\CarProject.genruntimeconfig.cache
+C:\Users\Marina\source\repos\CarProject\obj\Debug\net8.0\ref\CarProject.dll
