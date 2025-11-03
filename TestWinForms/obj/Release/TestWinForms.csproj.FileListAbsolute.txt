@@ -1,0 +1,10 @@
+C:\Users\Marina\source\repos\TestWinForms\bin\Release\TestWinForms.exe.config
+C:\Users\Marina\source\repos\TestWinForms\bin\Release\TestWinForms.exe
+C:\Users\Marina\source\repos\TestWinForms\bin\Release\TestWinForms.pdb
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.Form1.resources
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.Properties.Resources.resources
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.csproj.GenerateResource.cache
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.exe
+C:\Users\Marina\source\repos\TestWinForms\obj\Release\TestWinForms.pdb
