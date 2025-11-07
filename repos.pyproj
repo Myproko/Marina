@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{f89d3c2c-f346-4490-8c8f-6589644f3db5}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="CarProject\obj\Debug\net8.0\CarProject.csproj.FileListAbsolute.txt" />
+    <Content Include="classWork2\obj\Debug\net8.0\classWork2.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.FileListAbsolute.txt" />
+    <Content Include="matrix\obj\Debug\net8.0\matrix.csproj.FileListAbsolute.txt" />
+    <Content Include="TestWinForms\obj\Debug\TestWinForms.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CarProject\obj\Debug\net8.0" />
+    <Folder Include="classWork2\obj\Debug\net8.0" />
+    <Folder Include="ConsoleApp1\obj\Debug\net8.0" />
+    <Folder Include="matrix\obj\Debug\net8.0" />
+    <Folder Include="TestWinForms\obj\Debug" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\classWork2\bin\Debug\net8.0\classWork2.exe
+C:\Users\Marina\source\repos\classWork2\bin\Debug\net8.0\classWork2.deps.json
+C:\Users\Marina\source\repos\classWork2\bin\Debug\net8.0\classWork2.runtimeconfig.json
+C:\Users\Marina\source\repos\classWork2\bin\Debug\net8.0\classWork2.dll
+C:\Users\Marina\source\repos\classWork2\bin\Debug\net8.0\classWork2.pdb
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.AssemblyInfo.cs
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.dll
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\refint\classWork2.dll
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.pdb
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\classWork2.genruntimeconfig.cache
+C:\Users\Marina\source\repos\classWork2\obj\Debug\net8.0\ref\classWork2.dll

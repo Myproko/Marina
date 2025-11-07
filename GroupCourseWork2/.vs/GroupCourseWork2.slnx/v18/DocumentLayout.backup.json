@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\source\\repos\\GroupCourseWork2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD40708-100D-47DF-B123-EB600A46890B}|GroupCourseWork2.pyproj|C:\\Users\\Marina\\source\\repos\\GroupCourseWork2\\GroupCourseWork2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFD40708-100D-47DF-B123-EB600A46890B}|GroupCourseWork2.pyproj|solutionrelative:GroupCourseWork2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupCourseWork2.py",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\GroupCourseWork2\\GroupCourseWork2.py",
+              "RelativeDocumentMoniker": "GroupCourseWork2.py",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\GroupCourseWork2\\GroupCourseWork2.py",
+              "RelativeToolTip": "GroupCourseWork2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-02T16:06:32.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

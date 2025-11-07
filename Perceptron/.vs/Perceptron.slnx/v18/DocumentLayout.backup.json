@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\source\\repos\\Perceptron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500710E6-50DC-4A1D-8D63-FA53C7836DA2}|Perceptron.pyproj|C:\\Users\\Marina\\source\\repos\\Perceptron\\Perceptron.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{500710E6-50DC-4A1D-8D63-FA53C7836DA2}|Perceptron.pyproj|solutionrelative:Perceptron.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perceptron.py",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\Perceptron\\Perceptron.py",
+              "RelativeDocumentMoniker": "Perceptron.py",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\Perceptron\\Perceptron.py",
+              "RelativeToolTip": "Perceptron.py",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-24T08:20:25.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
